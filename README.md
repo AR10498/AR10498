@@ -7,7 +7,7 @@ Clone in Notebooks with:
 ```python
 %pip install pygit2
 ```
-3. Restart the kernel (⟳) and copy and run this whole block in a blank cell:
+3. Restart the kernel (using: ⟳), or open a new notebook, and copy and run this whole block in a blank cell:
 ```python
 import pygit2
 
