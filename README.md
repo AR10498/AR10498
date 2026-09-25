@@ -3,7 +3,7 @@ Python Lesson Notebooks
 
 Clone in Notebooks with:  
 1. From the start menu (or mac launcher) Open Anaconda Navigator (Python 3), then JupyterLab
-2. Start a new Notebook (Python 3) and cut/paste and run the following lines of code exactly as is:
+2. Start a new Notebook (Python 3) and cut/paste and run the following line of code exactly as is:
 ```python
 %pip install pygit2
 ```
